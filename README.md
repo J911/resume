@@ -30,7 +30,6 @@ Hi, I'm  Jaemin Lee and Web Developer!
 
 ![dambaesingo demo](/resource/image/dambaesingo.gif)
 
-
 - Homepage: [https://github.com/J911/dambaesingo/blob/master/README.md](https://github.com/J911/dambaesingo/blob/master/README.md)
 - Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
 - Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
