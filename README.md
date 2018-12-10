@@ -108,8 +108,7 @@ Computer network(TCP/IP),
 UNIX Systems,
 Operating system,
 Artificial Intelligence Engineering, 
-Mobile Programming, 
-Computer Network
+Mobile Programming(Android Programming)
 
 ## Works
 ### DAREUNKOREA Inc. (CTO, 2016 ~ 2018.4)
