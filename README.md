@@ -3,7 +3,7 @@
   <h1 align="center">Jaemin's resume</h1>
   <p align="center">Hi, I'm  Jaemin Lee and Web Developer!</p>
   <p align="center"><a href="https://j911.me" target="_blank">:link: J911.me</a></p>
-  <p align="center"><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇺🇸english </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷korean</a></p>
+  <p align="center"><a href="https://github.com/J911/resume/blob/master/en.md" target="_blank">🇺🇸english </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷korean</a></p>
 </p>
 
 ## Academic background
