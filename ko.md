@@ -1,6 +1,10 @@
-# 이재민의 레쥬메
-
-안녕하세요! 개발자 이재민입니다!
+<p align="center">
+  <img width="200" src="./resource/image/profile.png">
+  <h1 align="center">Jaemin's resume</h1>
+  <p align="center">안녕하세요 개발자 이재민입니다!</p>
+  <p align="center"><a href="https://j911.me" target="_blank">:link: J911.me</a></p>
+  <p align="center"><a href="https://github.com/J911/resume/blob/master/en.md" target="_blank">🇺🇸영어 </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷한국어</a></p>
+</p>
 
 ## 학력
 - 국립한밭대학교 4학년 재학중
