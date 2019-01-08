@@ -6,7 +6,7 @@
   <p align="center"><a href="https://github.com/J911/resume/blob/master/en.md" target="_blank">🇺🇸영어 </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷한국어</a></p>
 </p>
 
-## 학력
+## 학력사항 
 - 국립한밭대학교 4학년 재학중
 - 장학: 미래인재육성장학재단 장학생 (4년 전액 장학생)
 
@@ -24,7 +24,7 @@
   - frontend: Vue Js, Webpack3, CodeMirror, FontAswome, Axios, Vuex
 
 ### restful-api-todo-app: 
-RESTFul지향의 TODO API 서버
+RESTful지향의 TODO API 서버
 - Homepage: [https://github.com/J911/restful-api-todo-app/blob/master/README.md](https://github.com/J911/restful-api-todo-app/blob/master/README.md)
 - Repository: [https://github.com/J911/restful-api-todo-app](https://github.com/J911/restful-api-todo-app)
 - Demo: [http://todo-api.j911.me/api-docs](http://todo-api.j911.me/api-docs)
@@ -105,7 +105,7 @@ Java 프로그래밍,
 유닉스 시스템,
 운영체제,
 
-## 경력
+## 경력사항
 ### DAREUNKOREA Inc. (CTO, 2016 ~ 2018.4)
 책임 프로젝트:
 - **웹기반 실시간 서비스(Web based Realtime Communication Service ‘CON’)**   
@@ -130,5 +130,5 @@ Stack: MQTT, Typescript, PostgreSQL
 - facebook: [https://facebook.com/jaemin.org](https://facebook.com/jaemin.org)
 - instagram: [https://www.instagram.com/j911.me](https://www.instagram.com/j911.me)
 
-## 연락
+## 연락하기
 Email: jaemin.lee.email@gmail.com
