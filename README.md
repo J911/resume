@@ -3,7 +3,7 @@
 Hi, I'm  Jaemin Lee and Web Developer!
 
 ## Academic background
-- 3rd grade in Information and Communication Engineering Department at Hanbat National University
+- 4rd grade in Information and Communication Engineering Department at Hanbat National University
 - Scholarship: the scholarship foundation for Future Leaders (full scholarship for 4 years)
 
 ## Projects
