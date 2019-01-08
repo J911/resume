@@ -28,8 +28,6 @@ Hi, I'm  Jaemin Lee and Web Developer!
 ### dambaesingo:
 🚬🚫 This is an application that reports high school students smoking
 
-![dambaesingo demo](/resource/image/dambaesingo.gif)
-
 - Homepage: [https://github.com/J911/dambaesingo/blob/master/README.md](https://github.com/J911/dambaesingo/blob/master/README.md)
 - Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
 - Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
@@ -39,8 +37,6 @@ Hi, I'm  Jaemin Lee and Web Developer!
 ### running-ryan:
 🎮 Running Ryan Game(HTML5)
 
-![running-ryan demo](/resource/image/running-ryan.gif)
-
 - Homepage: [https://github.com/J911/running-ryan/blob/master/README.md](https://github.com/J911/running-ryan/blob/master/README.md)
 - Repository: [https://github.com/J911/running-ryan](https://github.com/J911/running-ryan)
 - Demo: [https://j911.me/running-ryan](https://j911.me/running-ryan)
@@ -49,8 +45,6 @@ Hi, I'm  Jaemin Lee and Web Developer!
 ### chicken-fry-theme:
 🍗chicken fry jekyll theme 
 
-![chicken-fry-theme demo](/resource/image/chicken-fry-theme.gif)
-
 - Homepage: [https://github.com/J911/chicken-fry-theme/blob/master/README.md](https://github.com/J911/chicken-fry-theme/blob/master/README.md)
 - Repository: [https://github.com/J911/chicken-fry-theme](https://github.com/J911/chicken-fry-theme)
 - Demo: [https://j911.me](https://j911.me)
@@ -58,8 +52,6 @@ Hi, I'm  Jaemin Lee and Web Developer!
 
 ### ng-memo-app: 
 📋 Memo App developed with Angular JS
-
-![ng-memo-app demo](/resource/image/ng-memo-app.gif)
 
 - Homepage: [https://github.com/J911/ng-memo-app/blob/master/README.md](https://github.com/J911/ng-memo-app/blob/master/README.md)
 - Repository: [https://github.com/J911/ng-memo-app](https://github.com/J911/ng-memo-app)
