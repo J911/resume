@@ -118,7 +118,7 @@ Stack: Node Js, MariaDB, Radis, WebSocket
 - **Investor & Company Matching Online Platform**    
 Stack: Node Js, MariaDB, jQuery
 
-### Techand Inc. (Web Developer, 2018.06 ~)
+### Techand Inc. (Web Developer, 2018.06 ~ 2019.02)
 project:
 - **Real-time home IoT control interface using MQTT**   
 Stack: MQTT, Typescript, PostgreSQL
