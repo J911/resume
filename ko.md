@@ -3,6 +3,7 @@
   <h1 align="center">Jaemin's resume</h1>
   <p align="center">안녕하세요 개발자 이재민입니다!</p>
   <p align="center"><a href="https://j911.me" target="_blank">:link: J911.me</a></p>
+  <p align="center"><a href="https://blog.airlab.re.kr/author/jaemin/" target="_blank">:link:blog.airlab.re.kr/author/jaemin</a></p>
   <p align="center"><a href="https://github.com/J911/resume/blob/master/en.md" target="_blank">🇺🇸영어 </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷한국어</a></p>
 </p>
 
