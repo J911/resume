@@ -1,135 +1,149 @@
-<p align="center">
-  <img width="200" src="./resource/image/profile.png">
-  <h1 align="center">Jaemin's resume</h1>
-  <p align="center">안녕하세요 개발자 이재민입니다!</p>
-  <p align="center"><a href="https://j911.me" target="_blank">:link: J911.me</a></p>
-  <p align="center"><a href="https://blog.airlab.re.kr/author/jaemin/" target="_blank">:link:blog.airlab.re.kr/author/jaemin</a></p>
-  <p align="center"><a href="https://github.com/J911/resume/blob/master/en.md" target="_blank">🇺🇸영어 </a><a href="https://github.com/J911/resume/blob/master/ko.md" target="_blank">🇰🇷한국어</a></p>
-</p>
+# J911's CV
 
-## 학력사항 
-- 국립한밭대학교 4학년 재학중
-- 장학: 미래인재육성장학재단 장학생 (4년 전액 장학생)
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled.png)
+
+### Jaemin Lee
+
+안녕하세요, **웹 개발자** 겸 **인공지능 연구원** 이재민입니다.
+
+---
+
+Email: j911.public@gmail.com
+
+GitHub: [[Link]](https://github.com/j911)
+
+Scholar: [[Link]](https://scholar.google.com/citations?user=h1R6SZMAAAAJ)
+
+## 🎓Academic background
+
+- **한밭대학교 정보통신대학원 석사과정**
+- **한밭대학교**에서 **정보통신공학** 학사과정 전공
+- 학사 과정 **4년 전체 학기 전액 장학생** (미래인재육성장학재단)
+
+## 📄Publications
+
+- Sequential Feature Filtering Classifier [[arXiv]](https://arxiv.org/abs/2006.11808)
+
+## 💼Works
+
+- DAREUNKOREA Inc. (CTO, 2016 ~ 2018.4)
+    - Web based Realtime Communication Service ‘CON’
+        - Stack: Node Js, MariaDB, websocket, Nginx
+    - SNS platform using Google Maps API
+        - Stack: AWS(EC2, S3, RDB), Node Js, Google API
+    - Development of Real-Time Simulation Platform
+        - Stack: Node Js, MariaDB, Radis, WebSocket
+    - Investor & Company Matching Online Platform
+        - Stack: Node Js, MariaDB, jQuery
+- Techand Inc. (Web Developer, 2018.06 ~ 2019.02)
+    - Real-time home IoT control interface using MQTT
+        - Stack: MQTT, Typescript, PostgreSQL
+- AiRLab. (석사과정 연구원, 2019 ~)
 
 ## Projects
-### codeveloper:
-💻 여러 개발자가 실시간으로 개발 가능한 웹기반의 IDE 플랫폼
 
-![codeveloper demo](/resource/image/codeveloper.gif)
-- Homepage: [https://github.com/J911/codeveloper/blob/master/README.md](https://github.com/J911/codeveloper/blob/master/README.md)
-- Development Report: [https://www.slideshare.net/ssuser827c0b/codeveloper-98231390](https://www.slideshare.net/ssuser827c0b/codeveloper-98231390)
-- Repository: [https://github.com/J911/codeveloper](https://github.com/J911/codeveloper)
-- Demo: [https://www.youtube.com/watch?v=lpQRb---oGI&feature=youtu.be](https://www.youtube.com/watch?v=lpQRb---oGI&feature=youtu.be)
-- Stack: 
-  - backend: Node Js, Express Js, Mysql, Socket.io, Docker
-  - frontend: Vue Js, Webpack3, CodeMirror, FontAswome, Axios, Vuex
+### 🤖**Deep Learning with Computer Vision**
 
-### restful-api-todo-app: 
-RESTful지향의 TODO API 서버
-- Homepage: [https://github.com/J911/restful-api-todo-app/blob/master/README.md](https://github.com/J911/restful-api-todo-app/blob/master/README.md)
-- Repository: [https://github.com/J911/restful-api-todo-app](https://github.com/J911/restful-api-todo-app)
-- Demo: [http://todo-api.j911.me/api-docs](http://todo-api.j911.me/api-docs)
+---
+
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%201.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%201.png)
+
+**다중 센서를 사용한 노면 인식 인공지능 연구 (ADD)**
+
+- Aim: 다중 센서를 사용한 지형 정보 인식 기법 개발
+    - 딥러닝을 사용한 실시간 세그멘테이션 기법
+    - RGB 센서와 Lidar센서를 활용한 다중센서 융합기법
+    - Pseudo label을 사용한 약지도학습 기법
+
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%202.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%202.png)
+
+**인공지능을 이용한 물체 파트별 세그멘테이션 기법 연구 (ETRI)**
+
+- Aim: 부분 구성 정보 인식을 통한 물체 인식 기법 개발
+    - Part segmentation을 위한 SOTA baseline 확보
+    - 도메인 갭 극복 기법을 통한 실제 데이터와 가상 데이터의 혼합 사용 기법 개발
+
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%203.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%203.png)
+
+**비디오 내 다중 모달리티를 이용한 동작 인식 인공지능 기법 연구 (ETRI)**
+
+- Aim: 비디오 데이터에서 영상 정보와 움직임 정보를 혼합한 행동 인식 기법 개발
+    - 이미지 정보와 움직임 정보의 퓨전 기법 개발
+    - 전처리 및 후처리 튜닝을 통한 인식 성능 개선 기법 개발
+    - 실시간 응용을 위한 연속 영상 데이터 처리 기법 개발
+
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%204.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%204.png)
+
+**Capstone Design Project (HBNU)**
+
+- overall 1st prize in Graduation Project
+- A Study of Recognition Model for Mobile Platform on Driving Environment.
+
+### 🕸**Web**
+
+---
+
+![J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%205.png](J911's%20CV%20d6dca3c22aaa4732b8c2de00f9843ae0/Untitled%205.png)
+
+**Codeveloper**
+
+여러 개발자가 실시간으로 개발 가능한 웹기반의 IDE 플랫폼 
+
+- Repository: [[repo]](https://github.com/J911/codeveloper)
+- Demo: [[youtube]](https://www.youtube.com/watch?v=lpQRb---oGI&feature=youtu.be)
+- Stack
+    - backend: Node Js, Express Js, Mysql, Socket.io, Docker
+    - frontend: Vue Js, Webpack3, CodeMirror, FontAswome, Axios, Vuex
+
+**restful-api-todo-app**
+
+- Homepage: [https://github.com/J911/restful-api-todo-app/blob/master/README.md](https://github.com/J911/restful-api-todo-app/blob/master/README.md)
+- Repository: [https://github.com/J911/restful-api-todo-app](https://github.com/J911/restful-api-todo-app)
+- Demo: [http://todo-api.j911.me/api-docs](http://todo-api.j911.me/api-docs)
 - Stack: Nodejs, Express, MonoDB, JWT, Typescript, Swagger
 
-### dambaesingo:
-🚬🚫 담배피는 고등학생을 신고하기 위해 개발한 애플리케이션
+**dambaesingo**
 
-- Homepage: [https://github.com/J911/dambaesingo/blob/master/README.md](https://github.com/J911/dambaesingo/blob/master/README.md)
-- Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
-- Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io)
-- Stack: Node Js, Kakao API, Express, Typescript,MongoDB
+담배피는 고등학생을 신고하기 위해 개발한 애플리케이션
+
+- Homepage: [https://github.com/J911/dambaesingo/blob/master/README.md](https://github.com/J911/dambaesingo/blob/master/README.md)
+- Repository: [https://github.com/J911/dambaesingo](https://github.com/J911/dambaesingo)
+- ~~*Demo: [https://dambaesingo.github.io](https://dambaesingo.github.io/)*~~
+- Stack: Node Js, Kakao API, Express, Typescript, MongoDB
 - Server: ubuntu 16, Nginx, SSL(letsencrypt), Cloudflare, PM2
 
-### running-ryan:
-🎮 러닝 라이언 (HTML5 GAME)
+**running-ryan**
 
-- Homepage: [https://github.com/J911/running-ryan/blob/master/README.md](https://github.com/J911/running-ryan/blob/master/README.md)
-- Repository: [https://github.com/J911/running-ryan](https://github.com/J911/running-ryan)
-- Demo: [https://j911.me/running-ryan](https://j911.me/running-ryan)
+러닝 라이언 (HTML5 GAME)
+
+- Homepage: [https://github.com/J911/running-ryan/blob/master/README.md](https://github.com/J911/running-ryan/blob/master/README.md)
+- Repository: [https://github.com/J911/running-ryan](https://github.com/J911/running-ryan)
+- Demo: [https://j911.github.io/running-ryan/](https://j911.github.io/running-ryan/)
 - Stack: HTML5, CSS, JS
 
-### chicken-fry-theme:
-🍗지킬 기반의 블로그 테마
+**ng-memo-app**
 
-- Homepage: [https://github.com/J911/chicken-fry-theme/blob/master/README.md](https://github.com/J911/chicken-fry-theme/blob/master/README.md)
-- Repository: [https://github.com/J911/chicken-fry-theme](https://github.com/J911/chicken-fry-theme)
-- Demo: [https://j911.me](https://j911.me)
-- Stack: HTML5, CSS, JS
+앵귤러 JS를 기반으로 개발한 TODO 앱
 
-### ng-memo-app: 
-📋 앵귤러 JS를 기반으로 개발한 TODO 앱
-
-- Homepage: [https://github.com/J911/ng-memo-app/blob/master/README.md](https://github.com/J911/ng-memo-app/blob/master/README.md)
-- Repository: [https://github.com/J911/ng-memo-app](https://github.com/J911/ng-memo-app)
-- Demo: [https://j911.me/ng-memo-app/dist/ng-memo-app](https://j911.me/ng-memo-app/dist/ng-memo-app)
+- Homepage: [https://github.com/J911/ng-memo-app/blob/master/README.md](https://github.com/J911/ng-memo-app/blob/master/README.md)
+- Repository: [https://github.com/J911/ng-memo-app](https://github.com/J911/ng-memo-app)
+- Demo: [https://j911.me/ng-memo-app/dist/ng-memo-app](https://j911.github.io/ng-memo-app/)
 - Stack: Typescript, Angular Js, LocalStorage
 
-## 경험
-- **언어(level 0~10):**   
-C(7), C++(3), Java(5), PHP(4), Python(4), VisualBasic(3), Javascript(8), Typescript(6), HTML(9), CSS(9), Swift(1) ...
+## Experience
 
-- **프레임워크 및 라이브러리:**   
-Express(js), React(js), Vue(js), jQuery(js), Nuxt(js), Angular(js), Spring(java), awt(java) ...
+---
 
-- **운영체제**:   
-Windows, Ubuntu, macOs, Android, IOS
+- **Language(level 0~10):**
 
-- **서버:**   
-AWS(EC2, RDB, S3), FireBase, Apache, Nginx
+    C(7), C++(3), Java(5), PHP(4), Python(8), VisualBasic(3), Javascript(8), Typescript(6), HTML(9), CSS(9), Swift(1) ...
 
-- **데이터베이스:**    
-MySQL, MongoDB, MariaDB, RDB
+- **Frameworks & Library:**
 
-- **툴:**   
-Git, Docker, Redis, PM2, Wireshark, Android Studio, Google Analytics ...
+    Express(js), React(js), Vue(js), jQuery(js), Nuxt(js), Angular(js), Spring(java), awt(java) Pytorch(python), TensorFlow(python), Keras(python)...
 
-- **기타...:**   
-MQTT, Websocket, WebRTC ...
-
-## 수강이력
-- 소프트웨어공학(UML)
-- C 프로그래밍
-- 고급 C 프로그래밍 
-- 객체지향 프로그래밍(C++) 
-- Java 프로그래밍
-- 임베디드 소프트웨어(atmega2560) 
-- 모바일 프로그래밍(Android)
-- 데이터베이스
-- 자료구조
-- 알고리즘 
-- 선형대수학
-- 인공지능
-- 웹프로그래밍
-- 데이터통신
-- 이동통신 프로토콜
-- 컴퓨터 네트워크(TCP/IP)
-- 유닉스 시스템
-- 운영체제
-
-## 경력사항
-### DAREUNKOREA Inc. (CTO, 2016 ~ 2018.4)
-책임 프로젝트:
-- **웹기반 실시간 서비스(Web based Realtime Communication Service ‘CON’)**   
-Stack: Node Js, MariaDB, websocket, Nginx
-- **Google Maps API를 사용하는 폐쇠형 SNS**   
-Stack: AWS(EC2, S3, RDB), Node Js, Google API
-- **모의 창업 플랫폼(Development of Real-Time Simulation Platform)**    
-Stack: Node Js, MariaDB, Radis, WebSocket
-- **투자자 & 기업 매칭 플랫폼(Investor & Company Matching Online Platform)**    
-Stack: Node Js, MariaDB, jQuery
-
-### Techand Inc. (Web Developer, 2018.06 ~ 2019.02)
-프로젝트:
-- **MQTT를 활용한 IoT제어 인터페이스(Real-time home IoT control interface using MQTT)**   
-Stack: MQTT, Typescript, PostgreSQL
-
-## My Links 🔗
-
-- github: [https://github.com/j911](https://github.com/j911)
-- blog: [https://j911.me](https://j911.me)
-- linkedin: [https://linkedin.com/in/jaemin-lee-8850b7152/](https://linkedin.com/in/jaemin-lee-8850b7152/)
-- facebook: [https://facebook.com/jaemin.org](https://facebook.com/jaemin.org)
-- instagram: [https://www.instagram.com/j911.me](https://www.instagram.com/j911.me)
-
-## 연락하기
-Email: jaemin.lee.email@gmail.com
+- **OS**: Windows, Ubuntu, macOs, Android, IOS
+- **Server:** AWS(EC2, RDB, S3), FireBase, Apache, Nginx
+- **Database:** MySQL, MongoDB, MariaDB, RDB
+- **Tools:** Git, Docker, Redis, PM2, Wireshark, Android Studio, Google Analytics ...
+- **ETC:** MQTT, Websocket, WebRTC ...
